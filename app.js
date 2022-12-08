@@ -17,6 +17,8 @@ app.use(express.static("public"));
 
 let posts = [];
 
+// for route web 
+
 app.get("/", function(req, res) {
   res.render("home", {
     startingContent: homeStartingContent,
