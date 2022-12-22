@@ -10,3 +10,5 @@ nodemon app.js
 ## Usage
 By creating a title and a tale, you may publish your daily diary. Where previously wrote the compose route
 > localhost:3000/compose
+## Credits
+- [Angela Yu](https://github.com/angelabauer)
